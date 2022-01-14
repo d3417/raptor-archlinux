@@ -1,5 +1,5 @@
 - - - PORTED TO ARCHLINUX BY D3417_ - - -
-
+- - - DOWNLOAD THE ZIP IN RELEASES NOT THE REPO THAT IS INCOMPLETE. - - - 
 ![Raptor](https://raw.githubusercontent.com/dpnishant/raptor/master/screenshots/raptor_logo.png?raw=true "Raptor Logo")
  
  
